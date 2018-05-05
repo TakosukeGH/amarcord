@@ -1,0 +1,7 @@
+blend/
+old/
+reference/
+temp/
+miku_lat/
+*.bat
+*.py
