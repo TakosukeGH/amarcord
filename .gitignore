@@ -3,5 +3,6 @@ old/
 reference/
 temp/
 miku_lat/
+movie/
 *.bat
 *.py
