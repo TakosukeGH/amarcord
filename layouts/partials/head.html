@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
+
+{{ template "_internal/twitter_cards.html" . }}
+<meta property="og:image" content="{{ .Site.BaseURL }}/images/logo.png">
+<meta property="og:image:type" content="image/png">
+
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
 <link rel="stylesheet" href="{{ "css/font-awesome.min.css" | absURL }}">
