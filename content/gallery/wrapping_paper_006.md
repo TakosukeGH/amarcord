@@ -11,5 +11,8 @@ weight = 32
 A4 or A3 サイズ用
 svg形式
 
+<!--more-->
+svg形式は [こちらのサイト](https://svgtopng.com/ja/) などでpng形式に変換可能です。
+
 ![](/img/Ou_Dorobou_Jing/logo.png)
 
